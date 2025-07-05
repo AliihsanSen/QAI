@@ -147,7 +147,6 @@ For full license details, see the [LICENSE](LICENSE) file or visit [GNU AGPL-3.0
 
 - Open a GitHub Discussion
 - Check existing issues
-- Join our community Discord - https://discord.gg/QqF68r39
 
 ## 🌈 Acknowledgments
 
