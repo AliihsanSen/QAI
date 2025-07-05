@@ -63,13 +63,15 @@ The framework integrates five powerful AI agents working in sequence:
 
 install playwright:
 
-
+```shell
 playwright install
+```
 
+```bash
 
 git clone https://github.com/AliihsanSen/QAI
 
-cd SDET-GENIE
+cd QAI
 
 python -m venv .venv
 
