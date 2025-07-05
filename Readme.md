@@ -1,6 +1,4 @@
-# QAI: AI-AGENTS in QA Automation --> @AGNO ^ @ Browser-use
-
-![image](https://github.com/user-attachments/assets/87ecb2a9-0638-4dee-b630-74aed4e95326)
+# QAI: AI-AGENTS in QA Automation 
 
 ## 🚀 Project Overview
 
@@ -94,7 +92,7 @@ streamlit run app.py
 
 ## 🤝 Contributing
 
-We're excited to welcome contributors to SDET-GENIE! Whether you're fixing bugs, improving documentation, or adding new features, your contributions are highly valued.
+We're excited to welcome contributors to QAI! Whether you're fixing bugs, improving documentation, or adding new features, your contributions are highly valued.
 
 ### 💡 Why Contribute?
 
@@ -152,12 +150,6 @@ For full license details, see the [LICENSE](LICENSE) file or visit [GNU AGPL-3.0
 - Open a GitHub Discussion
 - Check existing issues
 - Join our community Discord - https://discord.gg/QqF68r39
-
-## 📚 Blog Post
-
-Read our in-depth article: [From User Stories to Automated Tests: The Future of QA Automation using AI Agents](https://medium.com/@honeyricky1m3/from-user-stories-to-automated-tests-the-future-of-qa-automation-using-ai-agents-cfe7fe878954)
-
-Demo - https://youtu.be/z0fSNoUZTzw?si=xrfbDsGWlnTJzcYK
 
 ## 🌈 Acknowledgments
 
