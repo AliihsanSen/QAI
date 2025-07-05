@@ -62,7 +62,7 @@ framework_descriptions = {
 
 def main():
 
-    st.set_page_config(page_title="SDET-GENIE", layout="wide")
+    st.set_page_config(page_title="Ali İhsan ŞEN", layout="wide")
 
     # Apply custom CSS
     st.markdown("""
