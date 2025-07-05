@@ -1,10 +1,10 @@
-# SDET-GENIE: AI-AGENTS in QA Automation --> @AGNO ^ @ Browser-use
+# QAI: AI-AGENTS in QA Automation --> @AGNO ^ @ Browser-use
 
 ![image](https://github.com/user-attachments/assets/87ecb2a9-0638-4dee-b630-74aed4e95326)
 
 ## 🚀 Project Overview
 
-SDET-GENIE is a cutting-edge, AI-powered Quality Assurance (QA) automation framework that revolutionizes the software testing process. Leveraging a suite of specialized AI agents, SDET-GENIE transforms rough user stories into comprehensive, executable test automation code through a seamless end-to-end process.
+QAI is a cutting-edge, AI-powered Quality Assurance (QA) automation framework that revolutionizes the software testing process. Leveraging a suite of specialized AI agents, QAI transforms rough user stories into comprehensive, executable test automation code through a seamless end-to-end process.
 
 The framework integrates five powerful AI agents working in sequence:
 
@@ -63,13 +63,11 @@ The framework integrates five powerful AI agents working in sequence:
 
 install playwright:
 
-```shell
+
 playwright install
-```
 
-```bash
 
-git clone https://github.com/WaiGenie/SDET-GENIE.git
+git clone https://github.com/AliihsanSen/QAI
 
 cd SDET-GENIE
 
@@ -213,5 +211,3 @@ Demo - https://youtu.be/z0fSNoUZTzw?si=xrfbDsGWlnTJzcYK
          history           # Browser interaction data
      )
 ```
-
-**Made with ❤️ by the WaiGenie Team**
