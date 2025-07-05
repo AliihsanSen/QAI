@@ -59,8 +59,6 @@ The framework integrates five powerful AI agents working in sequence:
 
 ## 📦 Installation - Quick start
 
-install playwright:
-
 ```shell
 playwright install
 ```
